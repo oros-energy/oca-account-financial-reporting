@@ -76,20 +76,20 @@ Authors
 Contributors
 ------------
 
--  Lorenzo Battistini <lorenzo.battistini@agilebg.com>
--  Giovanni Capalbo <giovanni@therp.nl>
--  Tecnativa - Antonio Espinosa
--  Tecnativa - Pedro M. Baeza
--  ACSONE SA/NV - Stéphane Bidoul
--  Andrea Stirpe <a.stirpe@onestein.nl>
--  Iván Antón <ozono@ozonomultimedia.com>
--  `Sygel <https://www.sygel.es>`__:
+- Lorenzo Battistini <lorenzo.battistini@agilebg.com>
+- Giovanni Capalbo <giovanni@therp.nl>
+- Tecnativa - Antonio Espinosa
+- Tecnativa - Pedro M. Baeza
+- ACSONE SA/NV - Stéphane Bidoul
+- Andrea Stirpe <a.stirpe@onestein.nl>
+- Iván Antón <ozono@ozonomultimedia.com>
+- `Sygel <https://www.sygel.es>`__:
 
-   -  Valentin Vinagre
+  - Valentin Vinagre
 
--  `Stesi Consulting <https://www.stesi.consulting>`__:
+- `Stesi Consulting <https://www.stesi.consulting>`__:
 
-   -  Michele Di Croce <dicroce.m@stesi.consulting>
+  - Michele Di Croce <dicroce.m@stesi.consulting>
 
 Maintainers
 -----------
